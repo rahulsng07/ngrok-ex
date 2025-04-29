@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+	// hello this is test of jenkins only
 public class MyController {
 	@Autowired
 	@RequestMapping("/test")
